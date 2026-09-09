@@ -166,6 +166,9 @@ Example
 ```excel
 =VLOOKUP(A2,$F$2:$H$20,2,FALSE)
 ```
+- INDEX()
+- MATCH()
+- XLOOKUP()
 
 ---
 
@@ -223,9 +226,6 @@ After completing this project, I can:
 
 The next topics I plan to learn are:
 
-- INDEX()
-- MATCH()
-- XLOOKUP()
 - Pivot Tables
 - Pivot Charts
 - Conditional Formatting
